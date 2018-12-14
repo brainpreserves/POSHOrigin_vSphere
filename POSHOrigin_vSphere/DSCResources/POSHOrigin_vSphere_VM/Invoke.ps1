@@ -1,6 +1,7 @@
 <#
     This script expects to be passed a psobject with all the needed properties
     in order to invoke a 'VirtualMachine' DSC resource.
+    Modified depth to 100
 #>
 [cmdletbinding()]
 param(
