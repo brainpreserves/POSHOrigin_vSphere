@@ -1,3 +1,7 @@
+## 1.4.3.1 (2018-12-18)
+    * Bug fixes
+        * Cleared up error for ConvertTo-Json "-Depth 999" changed to "-Depth 100"
+        
 ## 1.4.3 (2017-08-09)
     * Improvements
         * Increase resiliency when retrieving guest VM IP address
